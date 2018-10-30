@@ -1,0 +1,24 @@
+textarea {
+    width: 500px;
+    height: 250px;
+}
+
+.container {
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: rgb(199, 203, 202);
+    width: 550px;
+    height: 670px;
+}
+
+.submit1 {
+    background-color:dimgray; 
+    color: white;
+}
+
+.reset {
+    background-color:dimgray; 
+    color: white;
+}
+
+
